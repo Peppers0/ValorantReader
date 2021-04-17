@@ -1,0 +1,16 @@
+# environment vars
+x64
+.vs
+*.obj
+*.log
+*.idb
+*.pdb
+*.tlog
+*.bmp
+*.txt
+*.recipe
+*.iobj
+*.ipdb
+*.pch
+*.ilk
+*.res

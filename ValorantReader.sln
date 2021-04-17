@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValorantReader", "ValorantReader\ValorantReader.vcxproj", "{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Debug|x64.ActiveCfg = Debug|x64
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Debug|x64.Build.0 = Debug|x64
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Debug|x86.ActiveCfg = Debug|Win32
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Debug|x86.Build.0 = Debug|Win32
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Release|x64.ActiveCfg = Release|x64
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Release|x64.Build.0 = Release|x64
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Release|x86.ActiveCfg = Release|Win32
+		{4967D7ED-1AFC-495E-8CA4-C9D450F8370A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {333E9C70-5C8F-444B-A49E-AADB284E52A2}
+	EndGlobalSection
+EndGlobal
